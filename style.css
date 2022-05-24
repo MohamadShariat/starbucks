@@ -378,6 +378,10 @@ section a {
   transform: translateX(100%);
 }
 
+.no-scroll {
+  overflow: hidden;
+}
+
 /* Media */
 @media (max-width: 768px) {
   .hamburger {
